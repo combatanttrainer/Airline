@@ -1,0 +1,10 @@
+	_______SNA Airelines________
+	__________Ticket__________
+	__________________________
+Customer Id: 2
+Customer name: manija
+Customer gender: female
+	Description
+
+	Destenation		USA
+	light cost: 		24000
